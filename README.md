@@ -1,6 +1,6 @@
 <div>
-	<h3>:책: Tech Stack</h3>
-	<p>:반짝임: Platforms & Languages</p>
+	<h3>📚 Tech Stack</h3>
+	<p>✨ Platforms & Languages</p>
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -19,7 +19,7 @@
 </div>
 <br>
 <div>
-	<p>:망치와_렌치: Tools</p>
+	<p>🛠 Tools</p>
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
