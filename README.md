@@ -1,3 +1,8 @@
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahaelim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahaelim&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
 <div>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages ✨</p>
